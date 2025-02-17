@@ -22,8 +22,9 @@ Dataset ini berisi beberapa fitur yang digunakan untuk analisis, antara lain:
 
 ---
 
+
 ## 🚀 Cara Menjalankan Proyek
-1. **Buka Google Colab** → Klik (https://colab.research.google.com/drive/1-jnRrSWtGSKDPXgrWppk-PgskyVld2DC?usp=drive_link)
+1. **Buka Google Colab** → [Google Colab (link colab)](https://colab.research.google.com/drive/1-jnRrSWtGSKDPXgrWppk-PgskyVld2DC?usp=drive_link)
 2. **Upload Dataset** → Sesuaikan dengan path dataset
 3. **Jalankan Sel Kode** → Ikuti langkah-langkah dari preprocessing hingga prediksi
 
